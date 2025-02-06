@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jogo-trivia-gabriel-coelho/precache-manifest.9298e560a46196b5d9399435ed834c9d.js"
+  "/jogo-trivia-gabriel-coelho/precache-manifest.f77c2333309a2b68fa956cb6f0631807.js"
 );
 
 self.addEventListener('message', (event) => {

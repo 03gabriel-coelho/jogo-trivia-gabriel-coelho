@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6968d557e0d3195f75de6f7f485e1f87",
+    "revision": "e23120e9dc13b55071036f0e398bb151",
     "url": "/jogo-trivia-gabriel-coelho/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jogo-trivia-gabriel-coelho/static/css/2.68a81a89.chunk.css"
   },
   {
-    "revision": "fe66b08b2b1fb251ca70",
+    "revision": "660658aac6dccedef755",
     "url": "/jogo-trivia-gabriel-coelho/static/css/main.d8334e43.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jogo-trivia-gabriel-coelho/static/js/2.bcda12be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe66b08b2b1fb251ca70",
-    "url": "/jogo-trivia-gabriel-coelho/static/js/main.655d0420.chunk.js"
+    "revision": "660658aac6dccedef755",
+    "url": "/jogo-trivia-gabriel-coelho/static/js/main.68230982.chunk.js"
   },
   {
     "revision": "7db48ed09155c48940c6",
