@@ -1,7 +1,7 @@
 {
   "name": "trivia-test",
   "version": "0.1.0",
-  "homepage": "jogo-trivia-gabriel-coelho/",
+  "homepage": "https://03gabriel-coelho.github.io/jogo-trivia-gabriel-coelho/",
   "private": true,
   "engines": {
     "node": "16"
