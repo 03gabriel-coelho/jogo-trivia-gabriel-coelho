@@ -1,6 +1,7 @@
 {
   "name": "trivia-test",
   "version": "0.1.0",
+  "homepage": "github-page/",
   "private": true,
   "engines": {
     "node": "16"
