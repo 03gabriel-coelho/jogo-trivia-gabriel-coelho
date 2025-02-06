@@ -11,7 +11,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={ store }>
-      <BrowserRouter>
+      <BrowserRouter basename="/jogo-trivia-gabriel-coelho">
         <App />
       </BrowserRouter>
     </Provider>
